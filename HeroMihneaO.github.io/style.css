@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+
+
+
+
+.social-media {
+    display: flex;
+    justify-content: center;
+}
+
+.social-media img {
+    width: 150px;
+}
